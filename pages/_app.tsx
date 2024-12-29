@@ -1,10 +1,11 @@
 import '../styles/global.css';
+import 'katex/dist/katex.min.css';
 import type { AppProps } from 'next/app';
 import { Inter } from 'next/font/google';
 import { ThemeProvider } from 'next-themes';
 import React from 'react';
-import Footer from '../components/footer';
-import Header from '../components/header';
+// import Footer from '../components/footer';
+// import Header from '../components/header';
 
 const inter = Inter({
   display: 'swap',
@@ -17,11 +18,12 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <div className={inter.className}>
       <ThemeProvider attribute='class' enableSystem>
-        <Header />
-        <main className='pt-14'>
+        {/* <Header /> */}
+        {/* <main className='pt-14'> */}
+        <main>
           <Component {...pageProps} />
         </main>
-        <Footer />
+        {/* <Footer /> */}
       </ThemeProvider>
     </div>
   );

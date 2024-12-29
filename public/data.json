@@ -1,0 +1,113 @@
+[
+  {
+    "n": 1,
+    "s_n": 1,
+    "svg": "1.svg"
+  },
+  {
+    "n": 2,
+    "s_n": 2,
+    "svg": "2.svg",
+    "proved_date": "1979",
+    "proved_author": "Frits Göbel"
+  },
+  {
+    "n": 3,
+    "s_n": 2,
+    "svg": "3.svg",
+    "proved_date": "1979",
+    "proved_author": "Frits Göbel"
+  },
+  {
+    "n": 4,
+    "s_n": 2,
+    "svg": "4.svg"
+  },
+  {
+    "n": 5,
+    "s_n": 2.7071,
+    "s_n_latex": "s = 2 + \\frac{1}{2} \\sqrt{2}",
+    "s_n_lower": 2.7071,
+    "s_n_lower_latex": "s = 2 + \\frac{1}{2} \\sqrt{2}",
+    "svg": "5.svg",
+    "proved_date": "1979",
+    "proved_author": "Frits Göbel"
+  },
+  {
+    "n": 6,
+    "s_n": 3,
+    "svg": "6.svg",
+    "proved_date": "June 2001",
+    "proved_author": "Michael Kearney and Peter Shiu"
+  },
+  {
+    "n": 7,
+    "s_n": 3,
+    "svg": "8.svg",
+    "proved_date": "1999",
+    "proved_author": "Erich Friedman"
+  },
+  {
+    "n": 8,
+    "s_n": 3,
+    "svg": "8.svg",
+    "proved_date": "1999",
+    "proved_author": "Erich Friedman"
+  },
+  {
+    "n": 9,
+    "s_n": 3,
+    "svg": "9.svg"
+  },
+  {
+    "n": 10,
+    "s_n": 3.7071,
+    "s_n_latex": "s = 3 + \\frac{1}{2} \\sqrt{2}",
+    "svg": "10.svg",
+    "found_date": "1979",
+    "found_author": "Frits Göbel",
+    "proved_date": "2003",
+    "proved_author": "Walter Stromquist"
+  },
+  {
+    "n": 11,
+    "s_n": 3.8771,
+    "s_n_latex": "s^8 - 20s^7 + 178s^6 - 842s^5 + 1923s^4 - 496s^3 - 6754s^2 + 12420s - 6865 = 0",
+    "s_n_lower": 3.7888,
+    "s_n_lower_latex": "s = 2 + \\frac{1}{2} \\sqrt{2}",
+    "svg": "11.svg",
+    "found_date": "1979",
+    "found_author": "Walter Trump"
+  },
+  {
+    "n": 12,
+    "s_n": 4,
+    "svg": "12.svg"
+  },
+  {
+    "n": 13,
+    "s_n": 4,
+    "svg": "13.svg",
+    "proved_date": "August 2009",
+    "proved_author": "Wolfram Bentz"
+  },
+  {
+    "n": 14,
+    "s_n": 4,
+    "svg": "14.svg",
+    "proved_date": "1999",
+    "proved_author": "Erich Friedman"
+  },
+  {
+    "n": 15,
+    "s_n": 4,
+    "svg": "15.svg",
+    "proved_date": "1999",
+    "proved_author": "Erich Friedman"
+  },
+  {
+    "n": 16,
+    "s_n": 4,
+    "svg": "16.svg"
+  }
+]

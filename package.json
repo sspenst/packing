@@ -11,11 +11,15 @@
   "dependencies": {
     "@headlessui/react": "^2.1.2",
     "@headlessui/tailwindcss": "^0.2.1",
+    "@types/katex": "^0.16.7",
+    "@types/react-katex": "^3.0.4",
     "classnames": "^2.5.1",
+    "katex": "^0.16.18",
     "next": "^14.2.5",
     "next-themes": "^0.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-katex": "^3.0.1",
     "sharp": "^0.33.4"
   },
   "devDependencies": {
